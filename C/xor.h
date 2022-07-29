@@ -3,4 +3,4 @@
 
 void xor(char *txt, size_t txt_len, char *key, size_t key_len, char *txt_xor);
 
-#endif // __DPAPI_H__
+#endif
