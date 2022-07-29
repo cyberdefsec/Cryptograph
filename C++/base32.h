@@ -70,10 +70,10 @@ public:
 
 private:
     static const std::string TABLE;
-}; //__BASE32_H__
+};
 
 const std::string Base32::TABLE = "ABCDEFGHIJKLMNOPQRSTUVWXYZ234567";
 
 
 
-#endif // __BASE64_H__
+#endif
