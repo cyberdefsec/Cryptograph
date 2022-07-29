@@ -15,6 +15,6 @@ public:
         }
         return data;
     }
-}; // CipherXOR
+};
 
-#endif // __DPAPI_H__
+#endif
