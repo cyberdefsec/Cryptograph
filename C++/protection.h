@@ -50,4 +50,4 @@ public:
 };
 
 
-#endif // __PROTECTION_H__
+#endif
