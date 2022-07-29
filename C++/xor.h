@@ -6,7 +6,6 @@
 class XOR{
 
 public:
-
     static std::string update(std::string text, std::string key){
         std::string data;
         if(text.size() > 0 && key.size() > 0){
