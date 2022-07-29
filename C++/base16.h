@@ -32,10 +32,10 @@ public:
 
 private:
     static const std::string TABLE;
-}; //__BASE16_H__
+};
 
 const std::string Base16::TABLE = "0123456789ABCDEF";
 
 
 
-#endif // __BASE64_H__
+#endif
