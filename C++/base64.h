@@ -45,10 +45,10 @@ public:
 
 private:
     static const std::string TABLE;
-}; //Base64
+};
 
 const std::string Base64::TABLE = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/";
 
 
 
-#endif // __BASE64_H__
+#endif
